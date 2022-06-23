@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marlleywow
-- 👀 I’m interested in ... Mss and Aplication Security
+- 👀 I’m interested in ... Mss and Application Security
 - 🌱 I’m currently learning ... CISM and CISSP topics
 - 💞️ I’m looking to collaborate on ...Developing a security framework for MSS services
 - 📫 How to reach me ... e-mail
